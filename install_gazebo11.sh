@@ -16,4 +16,4 @@ wget https://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
 sudo apt-get update
 
 # Install Gazebo 11 and its development libraries
-sudo apt-get install -y gazebo11 libgazebo11-dev
+sudo apt-get install -y gazebo libgazebo11-dev
